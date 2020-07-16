@@ -1,5 +1,4 @@
-### Hi there 👋
-
+# Muhammad Azhar
 <!--
 **git-azhar/git-azhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
