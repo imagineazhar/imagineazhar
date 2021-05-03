@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Azhar</h1>
 <h3 align="center">A passionate Data Analyst from Pakistan.</h3>
 
-- 🔭 I’m currently working on Computer vision algorithms [https://github.com/git-azhar/computer-vision-algorithms](https://github.com/git-azhar/computer-vision-algorithms)
+- 🔭 I’m currently working on [Breast Cancer Detection](https://github.com/git-azhar/Breast-Cancer-Detection)
 
 - 🌱 I’m currently learning **NLP and Tableau**
 
