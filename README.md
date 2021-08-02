@@ -20,5 +20,5 @@
 <p align="center">
 <a href="https://twitter.com/imagineazhar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="_grinch_101" height="30" width="30" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/azharvz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="https://www.kaggle.com/azharvz" height="30" width="30" /></a>
-<a href="https://instagram.com/_grinch_101" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_grinch_101" height="30" width="30" /></a>
+<a href="https://instagram.com/grinch__101" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_grinch_101" height="30" width="30" /></a>
 </p>
