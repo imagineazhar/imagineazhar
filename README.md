@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Azhar</h1>
-<h3 align="center">A passionate Data Analyst from Pakistan.</h3>
+<h3 align="center">A Data Analyst from Pakistan.</h3>
 
-- 🔭 I’m currently working on [Breast Cancer Detection](https://github.com/git-azhar/Breast-Cancer-Detection)
+- 🔭 I’m currently working on [Data Analysis](https://github.com/git-azhar/Data-Analysis)
 
-- 🌱 I’m currently learning **NLP and Tableau**
+- 🌱 I’m currently learning **Statistics and Data Modeling**
 
 - 👨‍💻 All of my projects are available at [https://github.com/git-azhar](https://github.com/git-azhar)
 
