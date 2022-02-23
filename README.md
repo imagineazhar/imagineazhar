@@ -4,6 +4,6 @@ Business and data analyst with a focus on dashboard development, reporting. I am
 Data visualization tools like Tableau, Power BI and data preparation/wrangling software like Excel, Big Query and MySQL.
 
 📫 Reach me at: **2muhammadazhar@gmail.com**
-![Uploading image.png…](twitter.com/imagineazhar)
+ <a href="https://twitter.com/imagineazhar"><img alt="Twitter" height="32" width="32" src="assets/twitter.svg"></a>
 
 
