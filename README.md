@@ -7,10 +7,10 @@ Business and data analyst with a focus on dashboard development, reporting. I am
 Data visualization tools like Tableau, Power BI and data preparation/wrangling software like Excel, Big Query and MySQL.
 
 
-:chart_with_upwards_trend: [Tableau Public](https://public.tableau.com/app/profile/m.azhar) 
+**You can reach me here**: <br/>
 
-
-<h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/imagineazhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imagineazhar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/imagineazhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imagineazhar" height="30" width="40" /></a>
-</p>
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imagineazhar)
+[![Twitter Badge](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/imagineazhar)
+[![Instagram Badge](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/grinch__101)
+[![Mail Badge](https://img.shields.io/badge/outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:2muhammadazhar@gmail.com)
+[![Tableau Portfolio](https://cdn.filepicker.io/api/file/jZDILlufSOSDOkuJTZ7J)](https://public.tableau.com/app/profile/m.azhar)
