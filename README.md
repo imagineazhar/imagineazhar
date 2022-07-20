@@ -13,4 +13,3 @@ Data visualization tools like Tableau, Power BI and data preparation/wrangling s
 [![Twitter Badge](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/imagineazhar)
 [![Instagram Badge](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/grinch__101)
 [![Mail Badge](https://img.shields.io/badge/outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:2muhammadazhar@gmail.com)
-[![Tableau Portfolio](https://cdn.filepicker.io/api/file/jZDILlufSOSDOkuJTZ7J)](https://public.tableau.com/app/profile/m.azhar)
