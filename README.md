@@ -16,3 +16,6 @@ Data visualization tools like Tableau, Power BI and data preparation/wrangling s
 
 ### Blog
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@imagineazhar)
+
+
+Follow me on LinkedIn: www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=imagineazhar
