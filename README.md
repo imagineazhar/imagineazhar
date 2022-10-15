@@ -5,8 +5,17 @@
 
 Business and data analyst specialized in dashboard building and reporting. I am enthusiastic about data visualizations and analytics and have prior experience with related tools (Tableau, Power BI) and methodologies.
 
+I am interested in helping businesses with the following types of work:
+* Research data management best practices training
+* Data collection instrument creation and planning
+* Data cleaning
+* Data documentation
+* Data quality management 
 
-### Other Habitats: <br/>
+
+***
+
+### Contact: <br/>
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imagineazhar)
 [![Twitter Badge](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/imagineazhar)
