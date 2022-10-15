@@ -6,7 +6,8 @@
 Business and data analyst specialized in dashboard building and reporting. I am enthusiastic about data visualizations and analytics and have prior experience with related tools (Tableau, Power BI) and methodologies.
 
 ### I am interested in helping businesses with the following types of work:
-* Research data management best practices training
+* Business Intelligence Reporting
+* Dashboard design & development
 * Data collection instrument creation and planning
 * Data cleaning
 * Data documentation
