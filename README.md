@@ -11,7 +11,7 @@ Business and data analyst specialized in dashboard building and reporting. I am 
 Due to my engineering degree, I have strong knowledge of math (i.e. statistics & linear algebra) and machine learning (anomaly detection & pattern recognition). 
 I use **Python** and **R** for data analysis, and **Tableau, Power BI & R** for data visualization.
 
-###🌟 I am interested in helping businesses with the following types of work:
+### 🌟 I am interested in helping businesses with the following types of work:
 * Business Intelligence Reporting
 * Dashboard design & development
 * Data collection instrument creation and planning
