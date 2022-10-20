@@ -5,6 +5,9 @@
 
 Business and data analyst specialized in dashboard building and reporting. I am enthusiastic about data visualizations and analytics and have prior experience with related tools (Tableau, Power BI) and methodologies.
 
+### My tech, data and math skills 📝
+Due to my engineering degree, I have strong knowledge of math (i.e. statistics & linear algebra) and unsupervised learning (anomaly detection & pattern recognition ). I mostly do data analysis with Python and R, and data visualization with coding (Tableaum Power BI & R) design software (Figma, Canva).
+
 ### I am interested in helping businesses with the following types of work:
 * Business Intelligence Reporting
 * Dashboard design & development
@@ -12,7 +15,6 @@ Business and data analyst specialized in dashboard building and reporting. I am 
 * Data cleaning
 * Data documentation
 * Data quality management 
-
 
 ***
 
