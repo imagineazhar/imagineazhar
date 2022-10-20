@@ -3,15 +3,15 @@
 
 Business and data analyst specialized in dashboard building and reporting. I am enthusiastic about data visualizations and analytics and have prior experience with related tools (Tableau, Power BI) and methodologies.
 
-### A brief summary of my academic background 📚:
--  💻 I have done BS in Computer Engineering.
--  🚦 My undergraduate thesis focused on detection and recognition of Traffic signs from live video-feed (📸).
+###  📚 A brief summary of my academic background:
+-  I have done BS in Computer Engineering 💻.
+-  My undergraduate thesis focused on detection and recognition of Traffic signs from live video-feed (📸).
 
-### My tech, data and math skills 📝:
+### 📝 My tech, data and math skills:
 Due to my engineering degree, I have strong knowledge of math (i.e. statistics & linear algebra) and machine learning (anomaly detection & pattern recognition). 
 I use **Python** and **R** for data analysis, and **Tableau, Power BI & R** for data visualization.
 
-### I am interested in helping businesses with the following types of work 🌟:
+###🌟 I am interested in helping businesses with the following types of work:
 * Business Intelligence Reporting
 * Dashboard design & development
 * Data collection instrument creation and planning
