@@ -17,7 +17,6 @@ I use **Python** and **R** for data analysis, and **Tableau, Power BI & R** for 
 * Data collection instrument creation and planning
 * Data cleaning
 * Data documentation
-* Data quality management 
 
 ***
 
