@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Azhar</h1>
 <h3 align="center">Business Intelligence Consultant</h3>
 
-I am a highly skilled professional business and data analyst with extensive expertise in the building and reporting of detailed dashboard systems. I have a deep understanding of how to effectively use data to identify trends and opportunities, as well as how to develop informative reports that are tailored to the specific needs of the company. My experience includes working with a variety of software and software systems, from Excel to Power BI, Tableau, QlikView, and others.
+I am a highly skilled professional business and data analyst with extensive expertise in the building and reporting of detailed dashboard systems. I have a deep understanding of how to effectively use data to identify trends and opportunities, as well as how to develop informative reports that are tailored to the specific needs of the company. I have experience working with a variety of tools, from Excel to Power BI, Tableau, QlikView, and others.
 I am also very familiar with the principles of data visualization, ensuring that the information is presented in a concise and attractive manner.
 
 ###  📚 A summary of my academic background:
