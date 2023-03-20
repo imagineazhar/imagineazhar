@@ -5,10 +5,10 @@ As a Business Intelligence (BI) consultant, I specialize in building comprehensi
 
 ### My Services:
 * Business Intelligence Reporting
-* Dashboard design & development
+* Dashboard Design & development
 * Data collection instrument creation and planning
-* Data cleaning
-* Data documentation
+* Data Cleaning
+* Data Documentation
 
 ***
 
@@ -19,5 +19,3 @@ As a Business Intelligence (BI) consultant, I specialize in building comprehensi
 [![Instagram Badge](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/imagineazhar)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2muhammadazhar@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@imagineazhar)
-
-
